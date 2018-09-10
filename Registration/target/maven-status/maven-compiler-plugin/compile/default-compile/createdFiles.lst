@@ -1,0 +1,7 @@
+in\cyclonia\register\services\StudentService.class
+in\cyclonia\register\model\Student.class
+in\cyclonia\register\controller\IndexController.class
+in\cyclonia\register\controller\StudentController.class
+in\cyclonia\register\services\StudentServiceImpl.class
+in\cyclonia\register\repository\StudentRepository.class
+in\cyclonia\register\RegistrationApplication.class
